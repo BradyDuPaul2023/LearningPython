@@ -1,1 +1,3 @@
-# LearningPython
+# Brady DuPaul
+
+Fred is wrong
