@@ -1,1 +1,14 @@
-print("1. Infinity Train\n2. Ordinal Scale\n3. Two Heroes\n4. Heroes Rising\n5. Infinity War")
+adjective1 = "very"
+adjective2 = "delicious"
+noun1 = "turkey"
+noun2 = "kitchen"
+verb1 = "ran"
+verb2 = "prepare"
+properNoun3 = "Sally"
+noun4 = "water"
+noun5 = "living"
+noun6 = "eyes"
+noun7 = "dogs"
+verb3 = "running"
+noun8 = "table"
+print("It was a " + adjective1 + " ,cold November day. I woke up to the " + adjective2 + " smell of")
