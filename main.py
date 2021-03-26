@@ -1,13 +1,13 @@
-adjective1 = input("what is adjective 1?\n")
-adjective2 = input("what is adjective 2?\n")
-noun1 = input("what is noun1?\n")
-noun2 = input("what is noun2?\n")
-verb1 = input("what is verb1?\n")
-verb2 = input("what is verb2?\n")
-noun4 = input("what is noun4?\n")
-noun5 = input("what is noun5?\n")
-noun6 = input("what is noun6?\n")
-noun7 = input("what is noun7?\n")
-verb3 = input("what is verb3?\n")
-noun8 = input("what is noun8?\n")
-print("It was a " + adjective1 + " cold November day. I woke up to the " + adjective2 + " smell of " + noun1 + " I hurried down to the " + noun2 + " and " + verb1 + " to help " + verb2 + " I got myself a glass of " + noun4 + " and moved to the " + noun5 + " room, when I got there I couldn't believe my " + noun6 + " there were so many " + noun7 + " and they were all " + verb3 + " on top of the " + noun8)
+light = input("Stoplight Color\n")
+
+if light == "green":
+    print("Go")
+
+elif light == "yellow":
+    print("Slow")
+
+elif light == "blue":
+    print("CALL 911")
+
+else:
+    print("Stop")
