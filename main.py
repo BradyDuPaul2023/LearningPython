@@ -1,13 +1,2 @@
-light = input("Stoplight Color\n")
-
-if light == "green":
-    print("Go")
-
-elif light == "yellow":
-    print("Slow")
-
-elif light == "blue":
-    print("CALL 911")
-
-else:
-    print("Stop")
+x = [7, 9, 12, 13, 6000, 15, 68, 35]
+print(x[0] * x[1] * x[2] * x[3] * x[4] * x[5] * x[6] * x[7])
